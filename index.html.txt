@@ -1,6 +1,0 @@
-<html>
-<center>
-<h1>THIS IS MY FIRST TEST OF FRONT END EN THE CLOUD</h1>
-<h2>MY NAME IS Orona Rodriguez Yamleht</h2>
-</center>
-</html>
